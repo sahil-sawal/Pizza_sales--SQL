@@ -13,4 +13,6 @@ Project Overview
 - Evaluate customer order patterns (e.g., order size, frequency, peak hours).
 - Measure revenue contribution by pizza category and size.
 
+## Schema
 
+![Data_schema]()
