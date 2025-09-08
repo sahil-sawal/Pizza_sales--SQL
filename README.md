@@ -15,4 +15,4 @@ Project Overview
 
 ## Schema
 
-![Data_schema]()
+![Data_schema](https://github.com/sahil-sawal/Pizza_sales--SQL/blob/main/Data_Schema.png)
