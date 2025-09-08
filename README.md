@@ -243,6 +243,8 @@ where Ranks <= 3;
 
 ## Author - Sahil Sawal
 
+Gmail :- sahilsawal8474@gmail.com
+
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. 
 I have made this project using MysqlWorkbench software.
 
