@@ -96,7 +96,7 @@ LIMIT 5;
 
 
 ### 1. Join the necessary tables to find the 
-###   total quantity of each pizza category ordered.
+###    total quantity of each pizza category ordered.
 
 ```sql
 SELECT 
