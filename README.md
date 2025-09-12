@@ -1,6 +1,6 @@
 # Pizza Sales Data Analysis Using SQL
 
-Project Overview
+## Project Overview
 
  In this project, I have utilized SQL queries to analyze and answer business-related questions based on pizza sales data. By applying various SQL techniques such as filtering, aggregation, joins, and grouping, I was able to uncover insights into  customer preferences, and overall business performance. This analysis helps in understanding which pizzas are most popular, peak ordering times, and key factors that drive sales.
 
