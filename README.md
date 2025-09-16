@@ -13,7 +13,7 @@
 - Evaluate customer order patterns (e.g., order size, frequency, peak hours).
 - Measure revenue contribution by pizza category and size.
 
-## Schema
+## Data Model
 
 ![Data_schema](https://github.com/sahil-sawal/Pizza_sales--SQL/blob/main/Data_Schema.png)
 
